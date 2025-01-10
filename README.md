@@ -1,4 +1,4 @@
 # connort45.github.io
-test 1
-test 2
-test 3
+this is my wake tech repository
+i will be adding my homework assignments to this
+connor trevaskiss mtrevaskiss@my.waketech.edu
