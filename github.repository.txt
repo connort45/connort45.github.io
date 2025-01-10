@@ -1,7 +1,4 @@
 # connort45.github.io
-
-## Test Edit 1
-This is the first test edit to the README file.
-
-## Test Edit 2
-This is the second test edit to the README file.
+connor trevaskiss cmtrevaskiss2my.waketech.edu
+this is my school account for my wake tech curriculum
+this is a repository for school assignments
