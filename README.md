@@ -1,4 +1,4 @@
 # connort45.github.io
-test 1
-test 2
-test 3
+connor trevaskiss cmtrevaskiss@my.waketech.edu
+this is my school acoount for wake tech community college
+this is a repository for my classwork and school assignments
