@@ -6,7 +6,7 @@ this repository was made to hold assigments, how many i do not yet know
 ## About ME:
 
 ### My Interests:
-Fishing,hiking, spending time with my GF, video games. Learning about cybersecurity. My goal is t become a Threat analyst, or somehting along those lines.
+Fishing,hiking, spending time with my GF, video games. Learning about cybersecurity. My goal is to become a Threat analyst, or somehting along those lines.
 
 ### Websites I'd Recommend:
 www.virustotal.com ( this website is still very new to me but has fascinating implications that im enjoying learning about)
